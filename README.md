@@ -35,7 +35,7 @@
 
 ### 🤝 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/ayush arya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush arya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayush arya](https://www.linkedin.com/in/ayush-arya-36505a218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush arya" height="30" width="40" /></a>
 <a href="https://instagram.com/arya_since_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arya_since_00" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/iaryato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iaryato" height="30" width="40" /></a>
 </p>
