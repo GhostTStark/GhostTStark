@@ -7,12 +7,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghosttstark&label=Profile%20views&color=0e75b6&style=flat" alt="ghosttstark" /> </p>
 
 - 🔭 **Currently working on:** [Bright Digi Gold](https://www.brightdigigold.com/)
-- 🌱 **Learning:** Nest.js, Next.js
 - 👯 **Open to Collaborate on:** [Testofire Web](https://testofire.in/)
 - 🤝 **Looking for support with:** [Testofire APP](https://play.google.com/store/search?q=testofire&c=apps&hl=en)
 - 💬 **Ask me about:** Node.js, Express, Java
 - 📫 **Reach me at:** iaryato@gmail.com
-- ⚡ **Fun fact:** I consider myself an introvert
+- 🌱 **Learning:** GoLang,Relative Ai
 
 ---
 
